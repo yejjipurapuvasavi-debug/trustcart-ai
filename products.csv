@@ -1,0 +1,7 @@
+product_id,name,description,attributes,price,stock_status,category,ratings,color
+TC-SH-001,AeroRun Blue Running Shoe,Lightweight everyday running shoe,lightweight;lace-up,2499,In stock,shoes,4.4,blue
+TC-SH-002,StrideFlex Blue Running Shoe,Cushioned running shoe for daily training,cushioned;lace-up,1899,In stock,shoes,4.2,blue
+TC-SH-003,TrailLite Blue Sports Shoe,Outdoor sports shoe with grippy sole,grippy sole;outdoor,3299,Out of stock,shoes,4.1,blue
+TC-CT-001,Everyday Cotton T-Shirt,Soft cotton crew-neck T-shirt,crew neck;short sleeve,599,In stock,cotton clothing,4.5,white
+TC-CT-002,Classic Cotton Shirt,Casual cotton button-down shirt,button down;long sleeve,1299,In stock,cotton clothing,4.3,blue
+TC-BG-001,Metro Laptop Backpack,Compact backpack with laptop sleeve,laptop sleeve;compact,1799,In stock,bags,4.0,black
